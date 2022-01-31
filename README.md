@@ -1,5 +1,5 @@
 # A-Study-on-Tourism-Activites-in-Tanzania
-#### By **John Maronga**
+#### By **Brendah Koro, Elvis Mwangi, Geoffrey Chege, John Maronga, Joshua Kibuye, Oprah Muthoni, Wendy Oira**
 ## Description
 A repositort contained a detailed analysis of tourism activites in Tanzania
 
@@ -50,8 +50,6 @@ The analysis was carried out in python using pandas and numpy.
 ![Python](https://forthebadge.com/images/badges/made-with-python.svg)
 
 
-## Support and contact details
-Incase of any issues, you can reach me at johnmaronga@gmail.com
 ### License
 Uses the MIT licence
 ### Copyright
